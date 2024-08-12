@@ -2,3 +2,4 @@ openmetadata_ingestion
 #支持私库
 docker.getcollate.io/openmetadata/ingestion:1.5.0-SNAPSHOT
 
+
