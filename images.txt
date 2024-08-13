@@ -6,5 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 openmetadata/ingestion
 openmetadata/db
-elasticsearch/elasticsearch:8.10.2
+elasticsearch/elasticsearch
 openmetadata/server
